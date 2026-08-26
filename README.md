@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>- Building real-world web development projects  <br>- Learning Data Structures & Algorithms in C++ and improving my problem-solving skills<br>- Enhancing my portfolio with practical applications and projects <br><br>🌱 I’m currently learning  <br>- HTML, CSS & JavaScript (advanced concepts)  <br>- React.js  <br>- Data Structures & Algorithms  <br><br> 🚀 Projects  <br>- Portfolio Website (https://darshanbhandigare.github.io/)  <br>- Paletto Color Generator (https://paletto-color-generator.vercel.app/)
+🔭 I’m currently working on  <br>- Building real-world web development projects  <br>- Learning Data Structures & Algorithms in C++ and improving my problem-solving skills<br>- Enhancing my portfolio with practical applications and projects <br><br>🌱 I’m currently learning  <br>- HTML, CSS & JavaScript (advanced concepts)  <br>- React.js  <br>- Data Structures & Algorithms  <br><br> 🚀 Projects  <br>- Status-200 (https://status-200.vercel.app/)  <br>- InvoVault (https://invovault.vercel.app/) <br>- Portfolio Website (https://darshanbhandigare.github.io/)  <br>- Paletto Color Generator (https://paletto-color-generator.vercel.app/)
 
 
 ## 🌐 Socials:
